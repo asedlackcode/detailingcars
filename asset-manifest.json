@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/detailingcars/static/css/main.5f361e03.chunk.css",
+    "main.js": "/detailingcars/static/js/main.405b21d0.chunk.js",
+    "main.js.map": "/detailingcars/static/js/main.405b21d0.chunk.js.map",
+    "runtime-main.js": "/detailingcars/static/js/runtime-main.78595580.js",
+    "runtime-main.js.map": "/detailingcars/static/js/runtime-main.78595580.js.map",
+    "static/js/2.bf89705e.chunk.js": "/detailingcars/static/js/2.bf89705e.chunk.js",
+    "static/js/2.bf89705e.chunk.js.map": "/detailingcars/static/js/2.bf89705e.chunk.js.map",
+    "index.html": "/detailingcars/index.html",
+    "precache-manifest.5e5166085f04e8d543a9f7d783656143.js": "/detailingcars/precache-manifest.5e5166085f04e8d543a9f7d783656143.js",
+    "service-worker.js": "/detailingcars/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/detailingcars/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bf89705e.chunk.js.LICENSE.txt": "/detailingcars/static/js/2.bf89705e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/detailingcars/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78595580.js",
+    "static/js/2.bf89705e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.405b21d0.chunk.js"
+  ]
+}
